@@ -4,6 +4,8 @@ Please see handout for full project details and algorithm implementation.
 
 See ***association-rules.py*** for algorithm implementation in Python.
 
+See ***Apriori_Project_Handout.pdf*** for the full project and algorithm details.
+
 In this programming assignment, python was used to implement an association rule algorithm and apply it to it on the Yelp dataset. The yelp5.csv dataset was used.
 
 ## Dataset Details
